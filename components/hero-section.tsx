@@ -20,7 +20,7 @@ export function HeroSection() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5 }}
             className="relative h-32 w-32 rounded-full overflow-hidden border-4 bg-clip-border border-gradient-to-r from-blue-500 to-purple-500">
-            <img src="/images/Profile pic.png" alt="logo" className="h-full w-full object-cover" />
+            <img src="/images/profile_pic.png" alt="logo" className="h-full w-full object-cover" />
 
           </motion.div>
 
